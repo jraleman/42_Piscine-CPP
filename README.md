@@ -14,7 +14,7 @@ projects and prepare you for future objectives and jobs.
 to previous ones that I didn't completed during my piscine.
 These scores don't show the final mark of this repository.*
 
-### TODO
+### TODO || TOFIX
 
 * Day00
 	- ex02
@@ -33,7 +33,3 @@ These scores don't show the final mark of this repository.*
 	- ex03
 	- ex04
 * Rush01
-
-### TOFIX
-
-* TBA
